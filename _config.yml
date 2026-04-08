@@ -58,7 +58,7 @@ ignore: null
 theme: Academia
 deploy:
   type: git
-  repo: 'https://github.com/Candlelight-XYJ/Candlelight-XYJ.github.io.git'
+  repo: 'git@github.com:Candlelight-XYJ/Candlelight-XYJ.github.io.git'
   branch: master
   repository: 'git@github.com:Candlelight-XYJ/Candlelight-XYJ.github.io.git'
 baidusitemap:
