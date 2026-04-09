@@ -12,6 +12,8 @@ I am a Ph.D Candidate at Tsinghua University.
 
 My research interests are Explainable AI and its application in cancer genomics. I'm dedicated to develop novel algorithms for biomarkers identification and better understanding of gene regulation mechanisms.
 
+Previously, I had internship experiences at BioMap, THU-AIR, P&G, and BeOne Medicines, which exposed me to diverse problems spanning AI research, biomedicine, and real-world industrial applications.
+
 Outside of programming, I enjoy travelling (You could see these photos in the `Gallery` menu). I also write notes about bioinformatics and my life (these notes are written in Chinese) on [my CSDN technical blog](https://blog.csdn.net/Candle_light) in spare time since 2016.
 
 ## Education
