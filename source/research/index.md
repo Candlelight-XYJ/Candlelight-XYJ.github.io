@@ -14,4 +14,9 @@ My recent research focuses on AI methods for cellular perturbation modeling, wit
 
 <img src="/researchExperience/GeneRegulation_Summary.png" alt="Gene regulation summary" style="max-width: 100%; height: auto;">
 
-Another line of my research concerns computational methods for gene regulation, spanning transcriptional regulation, gene regulatory network inference, and post-translational regulation. In this area, **ChiMER** (2026) was developed for identifying chimeric enhancer RNAs from short RNA-seq reads and studying enhancer-mediated transcriptional regulation, **TPDAinfer** (2018) provides a Bayesian network-based approach for causal gene regulatory network construction from omics data, and **VPTMdb** (2021) supports the analysis of viral post-translational modifications and related regulatory mechanisms in virus-host systems.
+Another line of my research concerns computational approaches to gene regulation at different biological layers. At the chromatin regulation level, **ChiMER** (2026) identifies chimeric enhancer RNAs from short-read RNA-seq data to study enhancer-mediated long range chromatin regulation. At the transcriptional regulation level, **TPDAinfer** (2018) uses Bayesian networks to infer causal gene regulatory relationships from transcriptomics data. At the protein regulation level, **VPTMdb** (2021) enables the investigation of viral post-translational modifications and their regulatory effects in virus–host systems.
+
+## Multi-Omics Data Analysis
+Beyond method development, I also have experience in using multi-omics analyses to uncover biological mechanisms, with applications in virome analysis (2024), pan-cancer microRNA studies (2022), single-cell multi-omics integration (2021), and genotype–phenotype association analysis (pQTL; forthcoming, 2026).
+
+
