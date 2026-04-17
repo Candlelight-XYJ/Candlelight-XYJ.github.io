@@ -4,6 +4,8 @@ date: 2022-12-25 19:56:53
 ---
 
 ## Research Summary
+My work can be broadly grouped into three complementary themes: AI for perturbation modeling, computational gene regulation, and multi-omics data analysis. These themes are connected by a shared goal of understanding and modeling complex cellular systems across multiple biological layers, from predictive modeling of cell state dynamics, to uncovering regulatory mechanisms, and to data-driven biological discovery.
+
 
 ## AI for Perturbation Modeling
 <img src="/researchExperience/ReseachSummary.png" alt="Research summary" style="max-width: 100%; height: auto;">

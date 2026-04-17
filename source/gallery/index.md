@@ -1,6 +1,5 @@
 <h2 id="Welcome-to-my-Gallery"><a href="#Welcome-to-my-Gallery" class="headerlink" title="Welcome to my Gallery"></a>Welcome to my Gallery</h2><p>旅行的意义是离开，是启程，也是重逢 </p>
 
-
  <h3>Travelling in Russia (2025, May, Lake Baikal) </h3>
  <p> 透过同一扇窗，却能看到两种不一样的景色。所以我们的眼睛会看到什么，取决于我们心中想看到什么</p>
 
@@ -9,6 +8,7 @@
  <img src="/galleryPic/baikal_1.jpg" alt="baikal" class="galleryPhoto" />
 </div>
 
+<hr>
  
 <h3>Records (2024, Autumn, Dalian) </h3>
  <p> 我没有说话 </p>
