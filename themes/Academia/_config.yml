@@ -30,9 +30,9 @@ social:
 social_links:
 #  fab fa-twitter: /
 #  fab fa-facebook-square: /
-  fab fa-github: https://github.com/Candlelight-XYJ
+#  fab fa-github: https://github.com/Candlelight-XYJ
 #  fab fa-stack-overflow: /
-  fab fa-linkedin: https://www.linkedin.com/in/yujia-xiang/
+#  fab fa-linkedin: https://www.linkedin.com/in/yujia-xiang/
 #  fab fa-weibo: /
 #  fab fa-weixin: /
 #  fab fa-qq: /
@@ -49,7 +49,7 @@ e_social_links:
 
 # CV download link
 cv_dl:
-  enable: true
+  enable: false
   dir: /attaches/CV.pdf
   description: My Detail CV.
 
