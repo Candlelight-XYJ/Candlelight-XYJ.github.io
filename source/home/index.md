@@ -10,9 +10,9 @@ Hi! This is Yujia Xiang.
 
 I am a Ph.D Candidate at Tsinghua University, working at the intersection of AI and biology.
 
-My research focuses on developing interpretable and reliable models to understand cellular dynamics and gene regulatory mechanisms. [**Learn more about my research ->>>**](/research/)
+My research focuses on developing interpretable and reliable models to understand cellular dynamics, perturbation responses and gene regulatory mechanisms. My recent work follows a connected line from perturbation model evaluation to dynamic modeling and agent-based biological discovery, represented by [**PertDiffBench**](https://www.biorxiv.org/content/10.64898/2026.06.13.732013v1), **MEGA-ODE** (*a Neural ODE-based model, to be released soon*), and the ongoing **PertAgent** project. [**Learn more about my research ->>>**](/research/)
 
-Previously, I had internship experiences at P&G, and BeOne Medicines, working on problems across AI research, biomedicine, and real-world applications.
+I have also interned at **P&G** and **BeOne Medicines**, working on problems across AI research, biomedicine, and real-world applications.
 
 Outside of programming, I enjoy travelling (You could see these photos in the [`Gallery`](/gallery/) page). I also write notes about bioinformatics and my life (these notes are written in Chinese) on [**my CSDN technical blog**](https://blog.csdn.net/Candle_light) in spare time since 2016.
 
