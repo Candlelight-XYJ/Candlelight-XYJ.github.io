@@ -15,6 +15,15 @@ title:
 
 ---
 
+### Travelling in Germany (2024, Oct)
+
+天涯共此时
+
+![germany](/galleryPic/Germany.jpg)
+
+
+---
+
 ### Records (2024, Autumn, Dalian)
 
 我没有说话
