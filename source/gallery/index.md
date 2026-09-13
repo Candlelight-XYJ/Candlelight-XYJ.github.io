@@ -7,6 +7,18 @@ title:
 **旅行的意义是离开，是启程，也是重逢**
 
 
+### Travelling in Florence, Geneva, Paris, and Venice (2026, Aug & Sep)
+P1: 佛城落日
+P2: Lake of Geneva
+P3: 夜访卢浮宫
+P4: 举杯邀明月
+
+![european](/galleryPic/euro_florence.jpg)
+![european](/galleryPic/euro_geneva1.jpg)
+![european](/galleryPic/euro_paris.jpg)
+![european](/galleryPic/euro_venice.jpg)
+
+
 ### Travelling in Russia (2025, May, Lake Baikal)
 
 透过同一扇窗，却能看到两种不一样的景色。所以我们的眼睛会看到什么，取决于我们心中想看到什么
