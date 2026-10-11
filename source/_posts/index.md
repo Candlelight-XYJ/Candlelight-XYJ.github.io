@@ -19,6 +19,7 @@ Outside of programming, I enjoy travelling (You could see these photos in the [`
 
 + Sep.2022-present, Ph.D Candidate, Tsinghua University, Beijing, China.
     + **Major**: Bioinformatics
+    + **Honors**: First-Class Scholarship of Tsinghua University (2026, 清华大学综合优秀一等奖学金)
 
 + Sep.2018-July.2021, Master Degree, Institute of Zoology, Chinese Academy of Sciences (IOZ, CAS), Beijing, China.
     + **Major**: Bio-engineering (Research direction: Bioinformatics)
