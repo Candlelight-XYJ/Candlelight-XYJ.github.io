@@ -7,13 +7,12 @@ title:
 **旅行的意义是离开，是启程，也是重逢**
 
 
-### Travelling in Florence, Geneva, Paris, and Venice (2026, Aug & Sep)
+### Travelling in Florence, Geneva, and Paris (2026, Aug & Sep)
 P1: 佛城落日
 P2: Lake of Geneva
 P3: 夜访卢浮宫
-P4: 举杯邀明月
 
-![european](/galleryPic/euro_florence.jpg) ![european](/galleryPic/euro_geneva1.jpg) ![european](/galleryPic/euro_paris.jpg) ![european](/galleryPic/euro_venice.jpg)
+![european](/galleryPic/euro_florence.jpg) ![european](/galleryPic/euro_geneva1.jpg) ![european](/galleryPic/euro_paris.jpg)
 
 
 ### Travelling in Russia (2025, May, Lake Baikal)
